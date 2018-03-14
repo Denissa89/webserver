@@ -31,7 +31,6 @@ tmp_table_size = 10M
 table_open_cache = 64
 read_buffer_size = 128K
 read_rnd_buffer_size = 256K
-join_buffer_size = 512K
 max_connections = 25
 back_log = 250
 
