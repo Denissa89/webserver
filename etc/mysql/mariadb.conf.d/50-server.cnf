@@ -27,7 +27,6 @@ innodb_flush_log_at_trx_commit = 1
 
 key_buffer_size	= 16M
 max_allowed_packet = 16M
-thread_cache_size = 8
 tmp_table_size = 10M
 table_open_cache = 64
 sort_buffer_size = 512K
